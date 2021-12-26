@@ -16,9 +16,7 @@
                 - [339A](codeforces/800/339A.cpp)
                 - [546A](codeforces/800/546A.cpp)
                 - [1328A](codeforces/800/1328A.cpp)
+                - [1619B](codeforces/800/1619B.cpp)
+                - [1620A](codeforces/800/1620A.cpp)
             - [900](codeforces/900/)
                 - [96A](codeforces/900/96A.cpp)
-            - [1000](codeforces/1000/)
-                
-            - [1500](codeforces/1500/)
-                - [455A](codeforces/800/455A.cpp)
