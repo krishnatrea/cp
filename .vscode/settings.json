@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.dart": "dart",
+        "*.c": "c",
+        "vector": "cpp",
+        "deque": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

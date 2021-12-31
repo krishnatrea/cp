@@ -9,10 +9,12 @@ int getnoofribbon(int x,int a,int b,int c){
     int y = max(getnoofribbon(x-a,a,b,c),max(getnoofribbon(x-b,a,b,c),getnoofribbon(x-c,a,b,c)));
     if(y == -1)     n[x]=-1;
     else if(y>=0)   n[x] = y+1;
+ 
     return n[x];
 }
  
 int main(){
+ 
     int x,a,b,c;
     cin>>x>>a>>b>>c;
     cout<<getnoofribbon(x,a,b,c);
